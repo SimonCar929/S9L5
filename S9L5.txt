@@ -1,0 +1,5 @@
+1) Le azione preventive al fine di difendersi da attacchi SQLi oppure XSS possono essere un server di backup e una situazione in cui vengono coinvolti due dispostivi con la stessa funzione con l'eccezione che al malfunzionamento di uno, l'altro è sempre pronto ad essere utilizzato.
+
+2)In quanto se il valore complessivo degli utenti spende 1.500 € al minuto, in un arco temporale di 10 minuti, le perdite saranno pari a 15.000 €
+
+3) Per evitare che un malware possa propagarsi ulteriormente in rete , possiamo isolare la rete interna spostando la DMZ a servizio web, di conseguenza quando l'utente vorrà connettersi ad essa potrà farlo tramite internet ma la nostra rete sarà isolata di conseguenza non raggiungibile.
